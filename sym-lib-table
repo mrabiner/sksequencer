@@ -1,0 +1,5 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "Sequencer") (type "KiCad") (uri "${KIPRJMOD}/sequencer.kicad_sym") (options "") (descr "Project symbols (crystal)"))
+	(lib (name "New_Library") (type "KiCad") (uri "${KIPRJMOD}/sequencer.kicad_sym") (options "") (descr "Project symbols (BS250P)"))
+)

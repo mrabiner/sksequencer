@@ -1,2 +1,2 @@
-# Sequencer
+# sksequencer
 Kondo RF Sequencer

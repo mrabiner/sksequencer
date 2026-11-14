@@ -1,0 +1,23 @@
+# KiCad backups / history / lock files
+.history/
+*-backups/
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*-bak
+*~
+~*.lck
+\#auto_saved_files#
+_autosave-*
+fp-info-cache
+*.kicad_prl
+
+# Extra project file (not used)
+sequencer EDGE.kicad_pro
+
+# Archives and generated output
+*.zip
+*.gbr
+*.drl
+gerbers/
